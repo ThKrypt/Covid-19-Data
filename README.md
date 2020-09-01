@@ -1,3 +1,5 @@
 # Covid-19-Data
-Colecting and producing data for social reaserch
-Data modelling and forecast
+Collecting and producing data for social research
+Data modelling and social forecast
+Testing open source software
+Phyton Coder
